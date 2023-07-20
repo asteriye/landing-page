@@ -39,6 +39,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 64px 600px;
+    flex-wrap: wrap;
 }
 
 .hero {
@@ -46,7 +47,7 @@ body {
 }
 
 .hero-container img {
-    width: 500px;
+    max-width: 500px;
 }
 
 h1 {
