@@ -47,7 +47,9 @@ body {
 }
 
 .hero-container img {
-    max-width: 500px;
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
 }
 
 h1 {
@@ -76,22 +78,26 @@ h2 {
     font-weight: 900;
     color: #1F2937;
     text-align: center;
-    padding: 20px 0px;
+    padding: 60px 0px;
 }
 
 .cards {
     display: flex;
     justify-content: center;
-    gap: 100px;
+    gap: 50px;
 }
 
 .cards li {
-    width: 200px;
+    width: 250px;
     list-style: none;
     text-align: center;
 }
 
 .cards img {
-    width: 200px;
-    height: 200px;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    border: 5px solid #3882f6;
+    border-radius: 20px;
 }
