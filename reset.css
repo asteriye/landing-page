@@ -13,6 +13,7 @@ https://www.joshwcomeau.com/css/custom-css-reset/
   */
   * {
     margin: 0;
+    padding: 0;
   }
   /*
     Typographic tweaks!
