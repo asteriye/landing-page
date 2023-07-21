@@ -109,7 +109,7 @@ h2 {
 }
 
 .quote p {
-    font-size: 26px;
+    font-size: 22px;
     font-style: italic;
     font-weight: 100;
     color: #1F2937;
@@ -122,4 +122,42 @@ h3 {
     margin: 0 auto;
     width: 700px;
     text-align: end;
+}
+
+.button-container {
+    margin: 100px 0px;
+}
+
+.banner {
+    width: 800px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 50px;
+}
+
+h4 {
+    color: #F9FAF8;
+}
+
+.banner p {
+    color: #F9FAF8;
+    font-weight: lighter;
+}
+
+.banner button {
+    border: 2px solid #F9FAF8;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+    background-color: #1F2937;
+    color: white;
+    font-size: 16px;
 }
