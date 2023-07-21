@@ -1,6 +1,8 @@
 # landing-page
 A simple site created while following The Odin Project. The main objective here is to practice flexbox.
 
+- Please note: designed only for 1440p screens, and it will look off on any other resolutions (have not learned responsive design yet)
+
 # Attributions
 - <a href="https://www.flaticon.com/free-icons/mammal" title="mammal icons">Mammal icons created by Freepik - Flaticon</a>
 
